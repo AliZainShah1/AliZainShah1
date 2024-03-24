@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey, I'm Ali Zain, currently working as an Associate Software Engineer at a software company while pursuing my Bachelor's in Computer Science (BCCS) from FAST University. With nearly 2 years of experience in React and Next.js development, I'm passionate about building exceptional user interfaces and crafting seamless web experiences.
+Hey, I'm Ali Zain, currently working as an Associate Software Engineer at a software company while pursuing my Bachelor's in Computer Science (BSCS) from FAST University. With nearly 2 years of experience in React and Next.js development, I'm passionate about building exceptional user interfaces and crafting seamless web experiences.
 
 ## What I Do
 
